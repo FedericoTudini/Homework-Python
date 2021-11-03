@@ -1,0 +1,6 @@
+Anno	Mese	Giorno	Ora	Minuto	Sensore1	Sensore2	Sensore3	Note
+int	int	int	int	int	float	float	float	str
+2018	12	25	0	0		3	45.3	manca il Sensore 1
+2018	10	25	0	1	1	36		manca il Sensore 3
+2017	11		0	2	14	5	82	manca il giorno
+2016		23	11	17	13	4.5	32	manca il mese

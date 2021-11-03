@@ -1,0 +1,1 @@
+﻿#La funzione, per ogni soglia di voto fino al voto massimo della lista dei voti dati, controlla quante volte il voto supera la soglia. Ogni qual volta il voto della lista supera la soglia, aumenta il valore di un contatore di 1. Al termine di ciò la funzione ritornerà il valore dei contatori ad ogni soglia, che corrisponde agli studenti promossi.
